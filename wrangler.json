@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "age-of-agent-d1",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "2bad282f-7076-4338-93ce-04131fbdf7bd",
+			"database_name": "age-of-agent-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
